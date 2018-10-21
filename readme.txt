@@ -1,5 +1,5 @@
 Cambie Hero
-presented by Yunhao Jiao, Dunbang He & Xinyi Lin.
+A Original 3D Shooting Game
 
 
 *****
